@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daviraquel)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="a rubber duck wearing a horned helmet" src="https://github.com/daviraquel/daviraquel/blob/master/duckimg.gif?raw=true" width="400" height="566" />
 
 - 🚀 continuously working on becoming the best dev I can be;
 - 🌱 Currently learning NodeJS at Kenzie Academy;
