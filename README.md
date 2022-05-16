@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daviraquel)
 
-<img align="right" alt="GIF" src="https://github.com/daviraquel/daviraquel/blob/master/duckimg.gif" width="500" height="707" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 - 🚀 continuously working on becoming the best dev I can be;
 - 🌱 Currently learning NodeJS at Kenzie Academy;
