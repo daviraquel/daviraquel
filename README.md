@@ -4,10 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daviraquel)
 
-<img align="right" alt="a rubber duck wearing a horned helmet" src="https://raw.githubusercontent.com/daviraquel/daviraquel/main/duckimg.gif" width="200" height="283" />
+<img align="right" alt="a rubber duck wearing a horned helmet" src="https://raw.githubusercontent.com/daviraquel/daviraquel/main/duckimg.gif" width="50" height="71" />
 
 - 🚀 Continuously working on becoming the best dev I can be;
-- 🌱 Currently learning NodeJS at Kenzie Academy;
+- 🌱 Currently learning Node.js and Django at Kenzie Academy;
 - 💬 Feel free to ask. Feedback and contacts are always welcome;
 - 📫 [Check out my porfolio!](https://myportfolio-rose-zeta.vercel.app/)
 
