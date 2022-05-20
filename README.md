@@ -1,10 +1,10 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" alt="a rubber duck wearing a horned helmet" src="https://raw.githubusercontent.com/daviraquel/daviraquel/main/duckimg.gif" width="50" height="71" />
 
 ## I'm Davi, a full-stack developer from Brazil.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daviraquel)
 
-<img align="right" alt="a rubber duck wearing a horned helmet" src="https://raw.githubusercontent.com/daviraquel/daviraquel/main/duckimg.gif" width="50" height="71" />
 
 - 🚀 Continuously working on becoming the best dev I can be;
 - 🌱 Currently learning Node.js and Django at Kenzie Academy;
