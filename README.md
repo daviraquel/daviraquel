@@ -13,10 +13,10 @@
 
 **Personal interests:**
 
-- :gear: I'm also a CAD desinger/engineer. So I'm glad to help if you need help with CAD, mechanical engineering in general, 3D printing etc!
+- :gear: I'm also a CAD designer/engineer. So I'm glad to help if you need help with CAD, mechanical engineering in general, 3D printing etc!
 - :racing_car: Gearhead and F1 fan;
 - :rugby_football:	Played rugby as scrum half;
-- :dog:	All my three dogs are named after movie characters.
+- :dog:	All my dogs are named after movie characters.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviraquel&theme=tokyonight)
 
