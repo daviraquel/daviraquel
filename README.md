@@ -18,7 +18,13 @@
 - :rugby_football:	Played rugby as scrum half;
 - :dog:	All my dogs are named after movie characters.
 
+**Top Languages**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviraquel&theme=tokyonight)
+
+**Github Trophies**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=daviraquel&margin-w=10&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **daviraquel/daviraquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
