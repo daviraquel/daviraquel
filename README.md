@@ -1,6 +1,6 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-## I'm Davi, a full-stack developer from Brazil.
+## I'm a full-stack developer from Brazil.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daviraquel)
 
@@ -13,7 +13,7 @@
 
 **Personal interests:**
 
-- :gear: I'm also a CAD designer/engineer. Glad to help with CAD, mechanical engineering in general and 3D printing!
+- :gear: Former CAD designer and engineer. Glad to help with CAD, mechanical engineering and 3D printing!
 - :racing_car: Gearhead and F1 fan;
 - :rugby_football:	Scrum half;
 - :dog:	Dog person.
