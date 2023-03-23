@@ -6,17 +6,17 @@
 
 <img align=right alt="a rubber duck wearing a horned helmet" src="https://raw.githubusercontent.com/daviraquel/daviraquel/main/duckimg.gif" width="100" height="142" />
 
-- 🚀 Continuously working on becoming the best dev I can be;
-- 🌱 Currently learning Node.js and Django at Kenzie Academy;
-- 💬 Feel free to ask. Feedback and contacts are always welcome;
-- 📫 [Check out my porfolio!](https://myportfolio-rose-zeta.vercel.app/)
+- 🚀 Working at Bayer;
+- 🌱 Learning R and Next.js;
+- ⚡ [Check out my porfolio!](https://myportfolio-rose-zeta.vercel.app/)
+- 📫 Feedback and contacts are always welcome;
 
 **Personal interests:**
 
-- :gear: I'm also a CAD designer/engineer. So I'm glad to help if you need help with CAD, mechanical engineering in general, 3D printing etc!
+- :gear: I'm also a CAD designer/engineer. Glad to help with CAD, mechanical engineering in general and 3D printing!
 - :racing_car: Gearhead and F1 fan;
-- :rugby_football:	Played rugby as scrum half;
-- :dog:	All my dogs are named after movie characters.
+- :rugby_football:	Scrum half;
+- :dog:	Dog person.
 
 **Top Languages**
 
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
