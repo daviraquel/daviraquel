@@ -6,15 +6,13 @@
 
 <img align=right alt="a rubber duck wearing a horned helmet" src="https://raw.githubusercontent.com/daviraquel/daviraquel/main/duckimg.gif" width="100" height="142" />
 
-- 🚀 Working at Bayer;
-- 🌱 Learning R and Next.js;
-- ⚡ [Check out my porfolio!](https://myportfolio-rose-zeta.vercel.app/)
-- 📫 Feedback and contacts are always welcome;
+- 🚀 Working at Bayer Production Research;
+- 🌱 Learning Data Analysis and visualization;
+- ⚡ [Check out my porfolio!](https://myportfolio-rose-zeta.vercel.app/);
+- 📫 Feedback and contacts always welcome;
 
-**Personal interests:**
-
-- :gear: Former CAD designer and engineer. Glad to help with CAD, mechanical engineering and 3D printing!
-- :racing_car: Gearhead and F1 fan;
+- :gear: Former CAD engineer. Glad to help with CAD, mechanical engineering and 3D printing!
+- :racing_car: Gearhead;
 - :rugby_football:	Scrum half;
 - :dog:	Dog person.
 
