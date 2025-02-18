@@ -8,7 +8,7 @@
 
 - 🚀 Working at Bayer Production Research;
 - 🌱 Learning Data Analysis and visualization;
-- ⚡ [Check out my porfolio!](https://myportfolio-rose-zeta.vercel.app/);
+- ⚡ [Check out my porfolio!](https://daviraquel.github.io/portfolio/);
 - 📫 Feedback and contacts always welcome;
 
 - :gear: Former CAD engineer. Glad to help with CAD, mechanical engineering and 3D printing!
